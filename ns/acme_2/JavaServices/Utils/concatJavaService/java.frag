@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">concatJavaService</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCXZhbHVlMSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vy
+c29yLCAidmFsdWUxIiApOw0KCVN0cmluZwl2YWx1ZTIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBw
+aXBlbGluZUN1cnNvciwgInZhbHVlMiIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0K
+U3RyaW5nIHJlcyA9IHZhbHVlMS5jb25jYXQodmFsdWUyKTsNCg0KLy8gcGlwZWxpbmUNCklEYXRh
+Q3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRhVXRp
+bC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJyZXN1bHQiLCByZXMgKTsNCnBpcGVsaW5lQ3Vyc29y
+XzEuZGVzdHJveSgpOw0KCQ==</value>
+</Values>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">demoConcat</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWlucHV0MSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vy
+c29yLCAiaW5wdXQxIiApOw0KCVN0cmluZwlpbnB1dDIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBw
+aXBlbGluZUN1cnNvciwgImlucHV0MiIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0K
+U3RyaW5nIHJlc3VsdCA9IGlucHV0MS5jb25jYXQoaW5wdXQyKTsNCg0KLy8gcGlwZWxpbmUNCklE
+YXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNCklEYXRh
+VXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJyZXN1bHQiLCByZXN1bHQgKTsNCnBpcGVsaW5l
+Q3Vyc29yXzEuZGVzdHJveSgpOw0KCQ==</value>
+</Values>
